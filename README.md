@@ -25,7 +25,7 @@ This project focuses on **HR Analytics** using **Excel** to create an **interact
   - Created insightful visualizations for better decision-making  
 
 ### 📷 Preview  
-*(Include screenshots of the dashboard here if available)*  
+*<img width="670" alt="ScreenShot Dashboard" src="https://github.com/user-attachments/assets/1953c930-a8f1-4d0d-a881-ae1d9de6b527" />* 
 
 ---
 
@@ -50,15 +50,15 @@ This project involves **data cleaning** and **exploratory data analysis (EDA)** 
   - Industry-wise impact analysis  
 
 ### 📷 Preview  
-*(Include screenshots or query results here if available)*  
+*( )*  
 
 ---
 
 ## 📩 Contact  
 If you have any questions or feedback, feel free to reach out!  
 
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
+📧 Email: josephho382@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/taihmt  
 
 ---
 
