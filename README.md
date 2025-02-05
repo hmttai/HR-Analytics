@@ -57,7 +57,7 @@ This project involves **data cleaning** and **exploratory data analysis (EDA)** 
 ## 📩 Contact  
 If you have any questions or feedback, feel free to reach out!  
 
-📧 Email: josephho382@gmail.com
+📧 Email: josephho382@gmail.com 
 🔗 LinkedIn: www.linkedin.com/in/taihmt  
 
 ---
